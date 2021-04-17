@@ -1,0 +1,10 @@
+artifact_path: vader
+flavors:
+  python_function:
+    cloudpickle_version: 1.6.0
+    env: conda.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.8.5
+run_id: 921d39f6e0854bc2906de4b1d3dfd0d1
+utc_time_created: '2021-04-17 02:38:56.440368'
